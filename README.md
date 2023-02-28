@@ -5,10 +5,10 @@
 
 # Basic Info
 
-Name:   
+**Name:**   
 Seunghoo Lee
 
-Education:
+**Education:**
 - University of California, Berkeley 🇺🇸
 - Ewha Woman University 🇰🇷
 
