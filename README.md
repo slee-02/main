@@ -8,11 +8,16 @@
 **Name:**  
 Seunghoo Lee
    
-   
 **Education:**
+- Portola High School 🇺🇸
 - University of California, Berkeley 🇺🇸
 - Ewha Woman University 🇰🇷
 
+**Experience:**
+- Likelion AI School 7
+- Naver Boost Course Coaching Study 9 <AI Basic 2023>
+
 ---
 
-# 
+# Skills
+
