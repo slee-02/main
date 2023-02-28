@@ -8,6 +8,7 @@
 **Name:**   
 Seunghoo Lee
 
+
 **Education:**
 - University of California, Berkeley 🇺🇸
 - Ewha Woman University 🇰🇷
