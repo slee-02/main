@@ -5,8 +5,7 @@
 
 # Basic Info
 
-**Name:**  
-Seunghoo Lee
+**Seunghoo Lee**
    
 **Education:**
 - Portola High School 🇺🇸
