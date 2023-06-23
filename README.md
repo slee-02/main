@@ -10,7 +10,7 @@
 **Education:**
 - Portola High School 🇺🇸
 - University of California, Berkeley 🇺🇸
-- Ewha Woman University 🇰🇷
+- Ewha Womans University 🇰🇷
 
 **Experience:**
 - Likelion AI School 7
